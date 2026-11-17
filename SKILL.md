@@ -1,6 +1,6 @@
 ---
 name: "flashcard"
-description: "Condenses a term or topic that was already discussed in the conversation into a one-page flashcard: question, core definition, goal, image, examples. Use when the user asks for a flashcard or a short summary of a term from the current context."
+description: "Learning aid. Turns a topic or term that was already discussed in the conversation into a one-page flashcard: a question plus an informative answer (core definition, goal, image, examples). Use when the user asks for a flashcard or a short study summary of a topic from the current context."
 ---
 
 # Flashcard
